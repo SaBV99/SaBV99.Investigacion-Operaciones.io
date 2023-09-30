@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Costo Minimo</title>
+</head>
+<body>
+    <h1 class="text-center mt-5 display-4 text-primary-emphasis">Costo Minimo</h1>
+    <br>
+</body>
+</html>
